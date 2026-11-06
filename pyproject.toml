@@ -1,0 +1,5 @@
+[project]
+name = "dsci552-hw6"
+version = "0.1.0"
+requires-python = ">=3.12,<3.14"
+dependencies = ["ipykernel", "nbconvert", "nbformat", "numpy", "pandas", "matplotlib", "scikit-learn", "xgboost", "imbalanced-learn", "threadpoolctl"]
